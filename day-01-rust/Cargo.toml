@@ -1,0 +1,6 @@
+[package]
+name = "day-01-rust"
+version = "0.1.0"
+authors = ["Tobias Melén <tobias.melen@makingwaves.com>"]
+
+[dependencies]
